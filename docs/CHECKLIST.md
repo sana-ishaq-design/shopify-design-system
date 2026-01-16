@@ -17,7 +17,7 @@ Track the implementation status of all components in the Shopify Design System.
 
 | Component | Status | Notes | Component Link | Usage | Priority |
 |-----------|--------|-------|----------------|-------|----------|
-| Color Tokens (Primary, Secondary, Neutral, Success, Error) | ✅ | Add semantic naming + WCAG contrast check | [Link]([./FOUNDATIONS.md#color-system](https://www.figma.com/design/RI8epkmOBGRdvyYbxlgDJH/Shopify-Figma-Design-System?node-id=8-337&t=9kRJjsre3iBJOAnE-1)) | e.g., home | High |
+| Color Tokens (Primary, Secondary, Neutral, Success, Error) | ✅ | Add semantic naming + WCAG contrast check | [Link](./FOUNDATIONS.md#color-system) | e.g., home | High |
 | Typography Tokens (Heading, Body, Caption) | ✅ | Create Figma text styles | [Link](./FOUNDATIONS.md#typography) | e.g., home | High |
 | Spacing Scale (4px base) | ✅ | Document spacing increments | [Link](./FOUNDATIONS.md#spacing-scale) | e.g., home | High |
 | Grid System (12/8/4 columns) | ✅ | Align with breakpoints | [Link](./FOUNDATIONS.md#grid-system) | e.g., home | High |
