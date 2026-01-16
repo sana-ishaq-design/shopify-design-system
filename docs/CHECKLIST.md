@@ -17,11 +17,11 @@ Track the implementation status of all components in the Shopify Design System.
 
 | Component | Status | Notes | Component Link | Usage | Priority |
 |-----------|--------|-------|----------------|-------|----------|
-| Color Tokens (Primary, Secondary, Neutral, Success, Error) | ☐ | Add semantic naming + WCAG contrast check | [Link](./FOUNDATIONS.md#color-system) | e.g., home | High |
-| Typography Tokens (Heading, Body, Caption) | ☐ | Create Figma text styles | [Link](./FOUNDATIONS.md#typography) | e.g., home | High |
-| Spacing Scale (4px base) | ☐ | Document spacing increments | [Link](./FOUNDATIONS.md#spacing-scale) | e.g., home | High |
-| Grid System (12/8/4 columns) | ☐ | Align with breakpoints | [Link](./FOUNDATIONS.md#grid-system) | e.g., home | High |
-| Radius + Shadows + Elevation | ☐ | Add subtle hover states | [Link](./FOUNDATIONS.md#elevation--effects) | e.g., home | Medium |
+| Color Tokens (Primary, Secondary, Neutral, Success, Error) | ✅ | Add semantic naming + WCAG contrast check | [Link]([./FOUNDATIONS.md#color-system](https://www.figma.com/design/RI8epkmOBGRdvyYbxlgDJH/Shopify-Figma-Design-System?node-id=8-337&t=9kRJjsre3iBJOAnE-1)) | e.g., home | High |
+| Typography Tokens (Heading, Body, Caption) | ✅ | Create Figma text styles | [Link](./FOUNDATIONS.md#typography) | e.g., home | High |
+| Spacing Scale (4px base) | ✅ | Document spacing increments | [Link](./FOUNDATIONS.md#spacing-scale) | e.g., home | High |
+| Grid System (12/8/4 columns) | ✅ | Align with breakpoints | [Link](./FOUNDATIONS.md#grid-system) | e.g., home | High |
+| Radius + Shadows + Elevation | ✅ | Add subtle hover states | [Link](./FOUNDATIONS.md#elevation--effects) | e.g., home | Medium |
 
 ---
 
@@ -29,12 +29,12 @@ Track the implementation status of all components in the Shopify Design System.
 
 | Component | Status | Notes | Component Link | Usage | Priority |
 |-----------|--------|-------|----------------|-------|----------|
-| Button (Primary, Secondary, Ghost, Disabled) | ☐ | Add hover + focus states | [Link](./components/atoms/button.md) | e.g., home | High |
-| Input (Text, Search, Checkbox, Select, Radio) | ☐ | Ensure consistent padding | [Link](#) | e.g., home | High |
-| Icons (Cart, Menu, Search, Account, Arrow) | ☐ | Use 24×24 vector set | [Link](#) | e.g., home | High |
-| Badge (Sale, New, Sold Out) | ☐ | Match brand accent colors | [Link](#) | e.g., home | Medium |
-| Price Label (Regular, Discounted) | ☐ | Include compare-at price | [Link](#) | e.g., home | High |
-| Divider (Neutral/200) | ☐ | Add responsive margins | [Link](#) | e.g., home | Low |
+| Button (Primary, Secondary, Ghost, Disabled) | ✅ | Add hover + focus states | [Link](./components/atoms/button.md) | e.g., home | High |
+| Input (Text, Search, Checkbox, Select, Radio) | ✅ | Ensure consistent padding | [Link](#) | e.g., home | High |
+| Icons (Cart, Menu, Search, Account, Arrow) | ✅ | Use 24×24 vector set | [Link](#) | e.g., home | High |
+| Badge (Sale, New, Sold Out) | ✅ | Match brand accent colors | [Link](#) | e.g., home | Medium |
+| Price Label (Regular, Discounted) | ✅ | Include compare-at price | [Link](#) | e.g., home | High |
+| Divider (Neutral/200) | ✅ | Add responsive margins | [Link](#) | e.g., home | Low |
 
 ---
 
@@ -42,7 +42,7 @@ Track the implementation status of all components in the Shopify Design System.
 
 | Component | Status | Notes | Component Link | Usage | Priority |
 |-----------|--------|-------|----------------|-------|----------|
-| Product Card | ☐ | Hover swap image + quick add | [Link](#) | e.g., home | High |
+| Product Card | 🔄 | Hover swap image + quick add | [Link](#) | e.g., home | High |
 | Collection Card | ☐ | Overlay gradient variant | [Link](#) | e.g., home | Medium |
 | Search Bar | ☐ | Mobile full-width variant | [Link](#) | e.g., home | High |
 | Header Nav Item | ☐ | Hover/dropdown state | [Link](#) | e.g., home | High |
