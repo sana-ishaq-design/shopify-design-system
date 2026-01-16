@@ -81,7 +81,7 @@ View the complete [Component Checklist](./docs/CHECKLIST.md) to see:
 
 ## 🎨 Figma File
 
-**[View Design System in Figma →]([(https://www.figma.com/design/RI8epkmOBGRdvyYbxlgDJH/Shopify-Figma-Design-System?node-id=12-487&t=9kRJjsre3iBJOAnE-1)])**
+**[View Design System in Figma →]((https://www.figma.com/design/RI8epkmOBGRdvyYbxlgDJH/Shopify-Figma-Design-System?node-id=12-487&t=9kRJjsre3iBJOAnE-1))**
 
 *Note: Community file is view-only. Duplicate to your workspace to use.*
 
